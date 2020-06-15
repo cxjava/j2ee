@@ -16,7 +16,7 @@
 		<proxool.version>0.9.1</proxool.version>
 		<bonecp.version>0.7.1.RELEASE</bonecp.version>
 		<shiro.version>1.2.0</shiro.version>
-		<hibernate-validator>4.3.0.Final</hibernate-validator>
+		<hibernate-validator>5.3.5.Final</hibernate-validator>
 	</properties>
 	
 
